@@ -1,4 +1,21 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    background-color: rgb(199, 183, 214);
+
+}
+h1 {
+    text-transform: uppercase;
+    color: white;
+
+
+}
+
+.title {
+    font-size: x-large;
+
+}
+
+#first_title {
+    color: blueviolet;
+
 }
