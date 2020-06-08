@@ -1,4 +1,4 @@
 # training_gitmergecommits
 # HZI course by Steph Locke
 
-![TITLE](https://gph.is/g/aKnDn2q=)
+![TITLE](https://media.giphy.com/media/UO95NWY0PmoWk/giphy.gif)
